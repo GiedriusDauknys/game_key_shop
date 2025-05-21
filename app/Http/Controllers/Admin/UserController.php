@@ -52,13 +52,7 @@ class UserController extends Controller
         if (!empty($roleNames)) {
             $user->syncRoles($roleNames);
         } else {
-            if (User::count() === 1) {
-                // First ever user — assign admin
-                $user->assignRole('admin');
-            } else {
-                // All others — assign member
-                $user->assignRole('member');
-            }
+            $user->assignRole('member');
         }
 
 

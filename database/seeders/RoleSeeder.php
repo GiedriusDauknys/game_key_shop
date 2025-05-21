@@ -11,7 +11,7 @@ class RoleSeeder extends Seeder
     public function run()
     {
         // Sukuriame roles
-        $admin = Role::create(['name' => 'admin']);
+        $admin = Role::firstorcreate(['name' => 'admin']);
         $member = Role::create(['name' => 'member']);
 
 
