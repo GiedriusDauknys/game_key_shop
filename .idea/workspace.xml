@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c39b9bc7-dc6b-4a32-9e61-c6dcb443be75" name="Changes" comment="upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/RoleSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/RoleSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -396,7 +395,7 @@
       <workItem from="1747643874175" duration="8749000" />
       <workItem from="1747762579092" duration="30000" />
       <workItem from="1747762721611" duration="1486000" />
-      <workItem from="1747842636426" duration="1423000" />
+      <workItem from="1747842636426" duration="2118000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <option name="closed" value="true" />
